@@ -10,14 +10,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: 
-<ul>
-   <li>emanuelurbano8@gmail.com</li>
-   <li> 
-    <a href="https://www.linkedin.com/in/emanuel-urbano-6364541b3/">LinkedIn</a>
-   </li>
-</ul>
- 
+- 📫 How to reach me: <ul><li>emanuelurbano8@gmail.com</li> <li><a href="https://www.linkedin.com/in/emanuel-urbano-6364541b3/">LinkedIn</a></li></ul>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
